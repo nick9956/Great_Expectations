@@ -1,4 +1,4 @@
-uncommitted/
+!uncommitted/data_docs/
 *.pyc
 myenv/
 __pycache__/
