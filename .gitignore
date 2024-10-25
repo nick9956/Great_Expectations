@@ -1,0 +1,5 @@
+uncommitted/
+*.pyc
+myenv/
+__pycache__/
+.ipynb_checkpoints/
